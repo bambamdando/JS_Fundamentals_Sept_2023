@@ -29,4 +29,4 @@ function spiceMustFlow(startingYield) {
     console.log(storageYield);
 }
 // spiceMustFlow([111]);
-spiceMustFlow([80]);
+spiceMustFlow([110]);
