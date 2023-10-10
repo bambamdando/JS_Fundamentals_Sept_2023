@@ -19,3 +19,4 @@ function equalSums(arr) {
     console.log(result);
 }
 equalSums([1, 2, 3, 3]);
+
