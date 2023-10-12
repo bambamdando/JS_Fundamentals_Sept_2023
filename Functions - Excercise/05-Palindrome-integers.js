@@ -21,3 +21,14 @@ function palindromeIntegers(arr) {
     }
 }
 palindromeIntegers([123, 323, 421, 121]);
+
+// function palindromeIntegers(arr) { // EASY SOLUTION WITH TOOLS .split / .reverse / .join
+
+//     for (let num of arr) {
+//         let numStr = String(num);
+//         let reversedNumStr = numStr.split("").reverse().join("");
+//         console.log(numStr == reversedNumStr);
+//     }
+
+// }
+// palindromeIntegers([123, 323, 421, 121]);
